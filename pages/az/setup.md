@@ -9,7 +9,7 @@ title: "1. Hazırlıq"
 
 <h2><em>01</em> E-mail ünvanı və adın ayarlanması</h2>
 
-<p>Əgər siz heç vaxt git istifadə etməmisinizsə əvvəlcə e-mail ünvanını və adı qurmaq lazımdır. Git sizin ad və e-mail ünvanını bilsin deyə aşağıdakı komandaları icra edin, əgər git hazırdısa sətir sonluqları bölümünə keçin</p>
+<p>Əgər siz heç vaxt git istifadə etməmisinizsə əvvəlcə e-mail ünvanını və adı qurmaq lazımdır. Git sizin ad və e-mail ünvanını bilsin deyə aşağıdakı əmrləri icra edin, əgər git hazırdısa sətir sonluqları bölümünə keçin</p>
 
 <h4 class="h4-pre">İcra et:</h4>
 
