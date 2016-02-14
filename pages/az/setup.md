@@ -1,33 +1,33 @@
 ---
 view: page
-title: "1. Preparation"
+title: "1. Hazırlıq"
 ---
 
-<h3>Goals</h3>
+<h3>Məqsədlər</h3>
 
-<ul><li>To be fully prepared to work with Git.</li></ul>
+<ul><li>Git vasitəsilə işləməyə tam hazır olmaq.</li></ul>
 
-<h2><em>01</em> Setting up name and e-mail address</h2>
+<h2><em>01</em> E-mail ünvanı və adın ayarlanması</h2>
 
-<p>If you've never used git before, first you need to set up your name and e-mail. Run the following commands to let git know your name and e-mail address. If git is already installed, skip down to the end of the line.</p>
+<p>Əgər siz heç vaxt git istifadə etməmisinizsə əvvəlcə e-mail ünvanını və adı qurmaq lazımdır. Git sizin ad və e-mail ünvanını bilsin deyə aşağıdakı komandaları işə salın, əgər git hazırdısa sətir sonluqları bölümünə keçin</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">İşə salın:</h4>
 
 <pre class="instructions">git config --global user.name "Your Name"
 git config --global user.email "your_email@whatever.com"</pre>
 
-<h2><em>02</em> Installation Options line endings</h2>
+<h2><em>02</em> Sətir sonluqlarının ayarlanması</h2>
 
-<p>Also, for users of Unix/Mac:</p>
+<p>Həmçinin, Unix/Mac istifadəçiləri üçün:</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">İşə salın:</h4>
 
 <pre class="instructions">git config --global core.autocrlf input
 git config --global core.safecrlf true</pre>
 
-<p>For Windows users:</p>
+<p>Windows istifadəçiləri üçün:</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">İşə salın:</h4>
 
 <pre class="instructions">git config --global core.autocrlf true
 git config --global core.safecrlf true</pre>
