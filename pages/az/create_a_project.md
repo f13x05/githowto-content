@@ -5,7 +5,7 @@ title: "3. Layihə yaratmaq"
 
 <h3>Məqsədlər</h3>
 
-<ul><li>Sırırdan git repozitoriya yaratmağı öyrənmək</li></ul>
+<ul><li>Sıfırdan git repozitoriya yaratmağı öyrənmək</li></ul>
 
 <h2><em>01</em> “Hello, World” səhifəsini yaradın</h2>
 
