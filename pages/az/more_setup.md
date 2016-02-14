@@ -15,7 +15,7 @@ title: "2. Yekun hazırlıq"
 
 <h2><em>02</em> Dərs materialını arxivdən çıxarın</h2>
 
-<p>Dərsliyin əsas qovluğunun adı “git_tutorial” olmalıdır və o 2 alt qovluqdan ibarət olmalıdır:</p>
+<p>Dərsliyin əsas qovluğunun adı “git_tutorial” olmalıdır və o 2, alt qovluqdan ibarət olmalıdır:</p>
 
 <ul>
 <li>work — boş işçi qovluq. Sizin repozitoriyalar burda olacaq.</li>
