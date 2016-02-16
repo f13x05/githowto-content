@@ -1,28 +1,28 @@
 ---
 view: page
-title: "4. Checking the status of the repository"
+title: "4. Repozitoriyanın vəziyyətinin yoxlanılması"
 ---
 
-<h3>Goals</h3>
+<h3>Məqsədlər</h3>
 
-<ul><li>To learn how to check the repository’s status</li></ul>
+<ul><li>Repozitoriyanın vəziyyətinin yoxlanılması</li></ul>
 
-<h2><em>01</em> Check the status of the repository</h2>
+<h2><em>01</em> Repozitoriyanın vəziyyətini yoxlayın</h2>
 
-<p>Use the <code>git status</code> command, to check the current state of the repository.</p>
+<p>Repozitoriyanın cari vəziyyətini yoxlamaq üçün <code>git status</code> əmrindən istifadə edin.</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">İcra et:</h4>
 
 <pre class="instructions">git status</pre>
 
-<p>You will see</p>
+<p>Nəticədə bunu görəcəksiniz</p>
 
-<h4 class="h4-pre">Result:</h4>
+<h4 class="h4-pre">Nəticə:</h4>
 
 <pre class="sample">$ git status
 # On branch master
 nothing to commit (working directory clean)</pre>
 
-<p>The command checks the status and reports that there’s nothing to commit, meaning the repository stores the current state of the working directory, and there are no changes to record.</p>
+<p>Vəziyyətin yoxlanılması əmri təsdiq ediləsi heç nəyin olmadığını xəbər edəcək və bu, işçi qovluqda yadda saxlamq üçün heç nəyin olmaması deməkdir.</p>
 
-<p>We will use the git status, to keep monitoring the states of both the working directory and the repository.</p>
+<p>Biz növbəti mərhələlərdə də <code>git status</code> əmrindən işçi qovluğun və repozitoriyanın vəziyyətini öyrənmək üçün isitifadə edəcəyik.</p>
