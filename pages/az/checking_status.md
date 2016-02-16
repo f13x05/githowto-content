@@ -23,6 +23,6 @@ title: "4. Repozitoriyanın vəziyyətinin yoxlanılması"
 # On branch master
 nothing to commit (working directory clean)</pre>
 
-<p>Vəziyyətin yoxlanılması əmri təsdiq ediləsi heç nəyin olmadığını xəbər edəcək və bu, işçi qovluqda yadda saxlamq üçün heç nəyin olmaması deməkdir.</p>
+<p>Vəziyyətin yoxlanılması əmri işçi qovluqda yadda saxlamaq üçün heç nəyin olmamasına görə təsdiq ediləsi heç nəyin olmadığını xəbər edəcək.</p>
 
-<p>Biz növbəti mərhələlərdə də <code>git status</code> əmrindən işçi qovluğun və repozitoriyanın vəziyyətini öyrənmək üçün isitifadə edəcəyik.</p>
+<p>Biz növbəti mərhələlərdə də işçi qovluğun və repozitoriyanın vəziyyətini öyrənmək üçün <code>git status</code> əmrindən  isitifadə edəcəyik.</p>
